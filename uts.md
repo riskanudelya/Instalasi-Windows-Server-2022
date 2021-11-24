@@ -66,6 +66,7 @@ Steps to install and configuration
 * Create on `New`
 ---
   ![img3](assetuts2021/3newos.png)
+  ![img4](assetuts2021/4createvm.png)
 * [React.js](https://reactjs.org/)
 * [Vue.js](https://vuejs.org/)
 * [Angular](https://angular.io/)
