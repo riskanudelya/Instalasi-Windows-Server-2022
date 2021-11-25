@@ -67,6 +67,8 @@ Steps to install and configuration
 ---
   ![img3](assetuts2021/3newos.png)
   ![img4](assetuts2021/4createvm.png)
+  ![img5](assetuts2021/5install.png)
+  ![img6](assetuts2021/6tampilanawal.png)
 * [React.js](https://reactjs.org/)
 * [Vue.js](https://vuejs.org/)
 * [Angular](https://angular.io/)
