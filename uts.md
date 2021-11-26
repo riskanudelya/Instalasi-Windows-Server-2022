@@ -22,8 +22,7 @@ Link Download iso windows server 2022 at [https://www.microsoft.com/en-us/evalce
         <li>https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2022</li>
       </ul>
     </li>
-    <li>
-      <a href="#">Buat sebuah dokumentasi instalasi di github yang berisi</a>
+    <li>Buat sebuah dokumentasi instalasi di github yang berisi
       <ol type="a">
         <li><a href="#Installation">Instalasi windows server 2022</a></li>
         <li><a href="#Directory">Instalasi Active Directory Domain Services</a></li>
@@ -34,16 +33,16 @@ Link Download iso windows server 2022 at [https://www.microsoft.com/en-us/evalce
     </li>
     <li>Kriteria Pengerjaan</li>
       <ol type="a">
-        <li><a href="#">Dokumentasi pada github dengan format markdown</a></li>
-        <li><a href="#">Memberikan penjelasan beserta screenshoot Langkah Langkah instalasi</a></li>
-        <li><a href="#">Cukup mengerjakan poin no 2.A</a></li>
-        <li><a href="#">Poin no 2-B sampai 2-E boleh dikerjakan, nilai dari poin no 2-B sampai 2-E bisa mengatrol nilai praktikum atau nilai UAS.</a></li>
+        <li>Dokumentasi pada github dengan format markdown</li>
+        <li>Memberikan penjelasan beserta screenshoot Langkah Langkah instalasi</li>
+        <li>Cukup mengerjakan poin no 2.A</li>
+        <li>Poin no 2-B sampai 2-E boleh dikerjakan, nilai dari poin no 2-B sampai 2-E bisa mengatrol nilai praktikum atau nilai UAS.</li>
       </ol>
     </li>
     <li>Referensi yang berguna:</li>
       <ul>
-        <li><a href="#link1">https://xpertstec.com/how-to-install-active-directory-in-server-2022/#Promote-Server-to-a-Domain-Controller</a></li>
-        <li><a href="#link2">https://docplayer.info/56976616-Laporan-instalasi-dan-konfigurasi-windows-server-2003.html</a></li>
+        <li>https://xpertstec.com/how-to-install-active-directory-in-server-2022/#Promote-Server-to-a-Domain-Controller</li>
+        <li>https://docplayer.info/56976616-Laporan-instalasi-dan-konfigurasi-windows-server-2003.html</li>
       </ul>
     </li>    
   </ol>
