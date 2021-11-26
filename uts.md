@@ -79,6 +79,7 @@ Steps to install and configuration
   ![img5](assetuts2021/5install.png)
   ![img6](assetuts2021/6tampilanawal.png)
 * Click on `Setting` at OS Windows Server 2022
+---
   ![img7](assetuts2021/7setingosstorage.png)
   ![img8](assetuts2021/setingossystem.png)
 * [Vue.js](https://vuejs.org/)
