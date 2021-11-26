@@ -50,7 +50,7 @@ Link Download iso windows server 2022 at [https://www.microsoft.com/en-us/evalce
 
 ----
 <!-- ABOUT THE PROJECT -->
-## Installation
+# Installation
 ---
 ## Cara Install Windows Server 2022 di VirtualBox 6.1 version
 ----
