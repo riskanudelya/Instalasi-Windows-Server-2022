@@ -92,7 +92,6 @@ Steps to install and configuration
 <!-- GETTING STARTED -->
 
 
-
 ## Directory
 
 This is an example of how you may give instructions on setting up your project locally.
