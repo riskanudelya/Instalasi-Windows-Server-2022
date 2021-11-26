@@ -18,7 +18,7 @@ Link Download iso windows server 2022 at [https://www.microsoft.com/en-us/evalce
   <summary>Soal dan Jawaban UTS</summary>
   <ol>
     <li>
-      <a href="#Download-ISO-Installer-windows-server-2022">Download ISO Installer windows server 2022</a>
+      <a href="#">Download-ISO-Installer-windows-server-2022">Download ISO Installer windows server 2022</a>
       <ul type="square">
         <li><a href="#">https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2022</a></li>
       </ul>
