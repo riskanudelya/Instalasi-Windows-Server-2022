@@ -78,7 +78,9 @@ Steps to install and configuration
   ![img4](assetuts2021/4createvm.png)
   ![img5](assetuts2021/5install.png)
   ![img6](assetuts2021/6tampilanawal.png)
-* [React.js](https://reactjs.org/)
+* Click on `Setting` at OS Windows Server 2022
+  ![img7](assetuts2021/7settingosstorage.png)
+  ![img8](assetuts2021/settingossystem.png)
 * [Vue.js](https://vuejs.org/)
 * [Angular](https://angular.io/)
 * [Svelte](https://svelte.dev/)
