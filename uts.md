@@ -12,7 +12,7 @@
 
 Link Download iso windows server 2022 at [https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2022](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2022)
 
-##UTS
+## UTS
 <!--Soal UTS -->
 <details>
   <summary>Soal dan Jawaban UTS</summary>
@@ -174,4 +174,4 @@ _Below is an example of how you can instruct your audience on installing and set
    const API_KEY = 'ENTER YOUR API';
    ```
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#UTS">back to top</a>)</p>
