@@ -74,15 +74,35 @@ Steps to install and configuration
 
 * Create on `New`
 ---
+1. klik tombol `new`
+2. isi bagian kolom `create virtual machine`
+3. lanjutkan set `memory size` -> `harddisk` -> `harddisk file type` -> `create virtual harddisk` -> `file location and size`
+4. klik tombol `start` pada os yang telah diset
+
   ![img3](assetuts2021/3newos.png)
   ![img4](assetuts2021/4createvm.png)
   ![img5](assetuts2021/5install.png)
   ![img6](assetuts2021/6tampilanawal.png)
 * Click on `Setting` at OS Windows Server 2022
 ---
+5. open `settings` 
+   ***1.-> `storage` tambahkan file pada `storage devices` untuk memasukkan disk iso windows server yang telah di download 
+   2.-> pilih file iso yang telah didownload dan tersimpan dalam lokasi `file manager` kita 
+   3.-> `open` 
+   4.-> pilih file iso yang telah ditambahkan
+   5.-> `choose` 
+   6.-> file iso berhasil ditambahkan
+   7.-> `remove empty file` 
+   8.-> tampilan file dalam `storage device`
+   9.-> Checking motherboard Base Memory tersedia `4096` seperti pada awal set-up `memory size`
+   10.-> `System` setting processors menjadi 2 CPU '<optional'
+   11.-> `OK`  
+
   ![img7](assetuts2021/7setingosstorage.png)
   ![img8](assetuts2021/8setingossystem.png)
-* [Vue.js](https://vuejs.org/)
+* Mulai `Running` your OS
+---
+6. `Start` your OS[Vue.js](https://vuejs.org/)
 * [Angular](https://angular.io/)
 * [Svelte](https://svelte.dev/)
 * [Laravel](https://laravel.com)
