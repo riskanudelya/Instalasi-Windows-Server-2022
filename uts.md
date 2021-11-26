@@ -17,34 +17,31 @@ Link Download iso windows server 2022 at [https://www.microsoft.com/en-us/evalce
 <details>
   <summary>Soal dan Jawaban UTS</summary>
   <ol>
-    <li>
-      <a href="#">Download-ISO-Installer-windows-server-2022">Download ISO Installer windows server 2022</a>
+    <li>Download-ISO-Installer-windows-server-2022">Download ISO Installer windows server 2022
       <ul type="square">
-        <li><a href="#">https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2022</a></li>
+        <li>https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2022</li>
       </ul>
     </li>
     <li>
       <a href="#">Buat sebuah dokumentasi instalasi di github yang berisi</a>
-      <ul>
+      <ol type="a">
         <li><a href="#Installation">Instalasi windows server 2022</a></li>
         <li><a href="#Directory">Instalasi Active Directory Domain Services</a></li>
         <li><a href="#DNS">Instalasi DNS server</a></li>
         <li><a href="#NET">Instalasi Net Framework 3.5</a></li>
         <li><a href="#Promote">Promote Server to a Domain Controller</a></li>        
-      </ul>
+      </ol>
     </li>
-    <li>
-      <a href="#">Kriteria Pengerjaan</a></li>
-      <ul type="disc">
+    <li>Kriteria Pengerjaan</li>
+      <ol type="a">
         <li><a href="#">Dokumentasi pada github dengan format markdown</a></li>
         <li><a href="#">Memberikan penjelasan beserta screenshoot Langkah Langkah instalasi</a></li>
         <li><a href="#">Cukup mengerjakan poin no 2.A</a></li>
         <li><a href="#">Poin no 2-B sampai 2-E boleh dikerjakan, nilai dari poin no 2-B sampai 2-E bisa mengatrol nilai praktikum atau nilai UAS.</a></li>
-      </ul>
+      </ol>
     </li>
-    <li>
-      <a href="#referensi">Referensi yang berguna:</a></li>
-      <ul type="square">
+    <li>Referensi yang berguna:</li>
+      <ul>
         <li><a href="#link1">https://xpertstec.com/how-to-install-active-directory-in-server-2022/#Promote-Server-to-a-Domain-Controller</a></li>
         <li><a href="#link2">https://docplayer.info/56976616-Laporan-instalasi-dan-konfigurasi-windows-server-2003.html</a></li>
       </ul>
