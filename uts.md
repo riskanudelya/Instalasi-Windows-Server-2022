@@ -101,9 +101,10 @@ Steps to install and configuration
 
   ![img7](assetuts2021/7setingosstorage.png)
   ![img8](assetuts2021/8setingossystem.png)
-* Mulai `Running` your OS
+* Get `Running` your OS
 ---
-6. `Start` your OS[Vue.js](https://vuejs.org/)
+6. Click `Start` your OS
+* [Vue.js](https://vuejs.org/)
 * [Angular](https://angular.io/)
 * [Svelte](https://svelte.dev/)
 * [Laravel](https://laravel.com)
