@@ -86,6 +86,7 @@ Steps to install and configuration
 * Click on `Setting` at OS Windows Server 2022
 ---
 5. open `settings` 
+   
    ***1.-> `storage` tambahkan file pada `storage devices` untuk memasukkan disk iso windows server yang telah di download 
    2.-> pilih file iso yang telah didownload dan tersimpan dalam lokasi `file manager` kita 
    3.-> `open` 
@@ -96,7 +97,7 @@ Steps to install and configuration
    8.-> tampilan file dalam `storage device`
    9.-> Checking motherboard Base Memory tersedia `4096` seperti pada awal set-up `memory size`
    10.-> `System` setting processors menjadi 2 CPU '<optional'
-   11.-> `OK`  
+   11.-> `OK`***  
 
   ![img7](assetuts2021/7setingosstorage.png)
   ![img8](assetuts2021/8setingossystem.png)
