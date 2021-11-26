@@ -13,6 +13,45 @@
 Link Download iso windows server 2022 at [https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2022](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2022)
 
 
+<!--Soal UTS -->
+<details>
+  <summary>Soal dan Jawaban UTS</summary>
+  <ol>
+    <li>
+      <a href="#Download-ISO-Installer-windows-server-2022">Download ISO Installer windows server 2022</a>
+      <ul type="square">
+        <li><a href="#list">https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2022</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#buat-sebuah-dokumentasi-instalasi-di-github-yang-berisi">Buat sebuah dokumentasi instalasi di github yang berisi</a>
+      <ul>
+        <li><a href="#Installation">Instalasi windows server 2022</a></li>
+        <li><a href="#Directory">Instalasi Active Directory Domain Services</a></li>
+        <li><a href="#DNS">Instalasi DNS server</a></li>
+        <li><a href="#NET">Instalasi Net Framework 3.5</a></li>
+        <li><a href="#Promote">Promote Server to a Domain Controller</a></li>        
+      </ul>
+    </li>
+    <li>
+      <a href="#aturan">Kriteria Pengerjaan</a></li>
+      <ul type="disc">
+        <li><a href="#dokumentasi">Dokumentasi pada github dengan format markdown</a></li>
+        <li><a href="#isi">Memberikan penjelasan beserta screenshoot Langkah Langkah instalasi</a></li>
+        <li><a href="#uts">Cukup mengerjakan poin no 2.A</a></li>
+        <li><a href="#tambahan">Poin no 2-B sampai 2-E boleh dikerjakan, nilai dari poin no 2-B sampai 2-E bisa mengatrol nilai praktikum atau nilai UAS.</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#referensi">Referensi yang berguna:</a></li>
+      <ul type="square">
+        <li><a href="#https://xpertstec.com/how-to-install-active-directory-in-server-2022/#Promote-Server-to-a-Domain-Controller">https://xpertstec.com/how-to-install-active-directory-in-server-2022/#Promote-Server-to-a-Domain-Controller</a></li>
+        <li><a href="#https://docplayer.info/56976616-Laporan-instalasi-dan-konfigurasi-windows-server-2003.html">https://docplayer.info/56976616-Laporan-instalasi-dan-konfigurasi-windows-server-2003.html</a></li>
+      </ul>
+    </li>    
+  </ol>
+</details>
+
 
 
 <!-- TABLE OF CONTENTS -->
@@ -40,6 +79,8 @@ Link Download iso windows server 2022 at [https://www.microsoft.com/en-us/evalce
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
+
+
 
 
 
@@ -78,6 +119,30 @@ Steps to install and configuration
 * [JQuery](https://jquery.com)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+
+<!-- GETTING STARTED -->
+## Installation
+
+This is an example of how you may give instructions on setting up your project locally.
+To get a local copy up and running follow these simple example steps.
+## Directory
+
+This is an example of how you may give instructions on setting up your project locally.
+To get a local copy up and running follow these simple example steps.
+## DNS
+
+This is an example of how you may give instructions on setting up your project locally.
+To get a local copy up and running follow these simple example steps.
+## NET
+
+This is an example of how you may give instructions on setting up your project locally.
+To get a local copy up and running follow these simple example steps.
+
+## Promote
+
+This is an example of how you may give instructions on setting up your project locally.
+To get a local copy up and running follow these simple example steps.
 
 
 
