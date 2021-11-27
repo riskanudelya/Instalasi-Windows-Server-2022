@@ -18,6 +18,7 @@ Link Download iso windows server 2022 at [https://www.microsoft.com/en-us/evalce
 ![img2step](assetuts2021/2stepdownloadiso.png)
 
 ***Notes : jika tidak `auto download` maka dapat klik unlink `windows server 2022`***
+
 ![img2cara](assetuts2021/2caradownloadisoyangbenar.png)
 
 
