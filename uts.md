@@ -111,15 +111,25 @@ Steps to install and configuration
 
   ![img7](assetuts2021/7setingosstorage.png)
   ![img8](assetuts2021/8setingossystem.png)
+  
+  
 * Get `Running` your OS
 ---
 6. Click `Start` your OS
-7. jj
-8. jsj
-9. hfy
-10. hjh
-11. hehr
-12. hhwe
+
+**`landing Microsoft OS Setup` menandakan Anda berhasil memasukkan file iso yang benar untuk melanjutkan proses installasi windows server**  
+ ***1.-> `pilih bahasa` dapat menggunakan default dengan langsung klik tombol `next`
+   2.-> `muncul tampilan `Install now` yuk klik -> Anda dapat berhasil menginstall hingga akhir jika ruang penyimpanan lokasi vdi berada mencukupi sesuai dengan jumlah partisi yang kita minta diawal (contohnya : kita tadi menggunakan sebesar `64 GB`)
+   3.-> pilih microsoft server yang kita inginkan untuk diinstall terdapat 4 pilihan dan saya memilih pilihan `opsi 2`
+   4.-> `centang` persetujuan dan klik `next`
+   5.-> pilih `opsi 2`
+   6.-> gunakan default saja tanpa mengubah apapun -> klik tombol `next`
+   7.-> tunggu proses `installasi`
+   8.-> jika proses `installasi` berhasil maka akan muncul permintaan pembuatan `password` dan `konfirmasi password`
+   9.-> isi kolom `password` dan klik tombol `finish`
+   10.-> untuk `unlock` maka gunakan `ctrl+Alt+Delete` pada keyboard
+   11.-> akan muncul landing `Administrator` isi password yang sudah dibuat di point `9`
+   12.-> installasi windows server 2022 telah berhasil dan sudah muncul tampilan layar desktop di dalam VirtualBox VM Anda***  
 
 ![img9](assetuts2021/9landingwindows.PNG)
 ![img10](assetuts2021/10prosesinstallasi.png)
