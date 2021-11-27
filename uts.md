@@ -114,6 +114,20 @@ Steps to install and configuration
 * Get `Running` your OS
 ---
 6. Click `Start` your OS
+7. jj
+8. jsj
+9. hfy
+10. hjh
+11. hehr
+12. hhwe
+
+![img9](assetuts2021/9landingwindows.PNG)
+![img10](assetuts2021/10prosesinstallasi.png)
+![img11](assetuts2021/11prosesinstallasi.png)
+
+
+
+
 * [Vue.js](https://vuejs.org/)
 * [Angular](https://angular.io/)
 * [Svelte](https://svelte.dev/)
