@@ -176,9 +176,17 @@ _setting to promote server to a `Domain Controller`_
 ### checklist `Active Directory Domain Services` and click `Add Features` and `Next` to Instalasi Active Directory Domain Services
 ![img18](assetuts2021/18instalsoaltambahan.png)
 
+
+## DNS
+---
+
 ### unchecklist `Active Directory Certificate Service` | checklist `DNS Server` and click `Add Features` and `Continue` and `Next` to Instalasi DNS Server
 ![img19](assetuts2021/19instalsoaltambahan.png)
 ![img20](assetuts2021/20instalsoaltambahan.PNG)
+
+
+## NET
+---
 
 ### checklist `.NET Framework 3.5 Features` and `Next` to Instalasi Net Framework 3.5
 ![img21](assetuts2021/21instalsoaltambahan.png)
@@ -200,65 +208,42 @@ _(1) `file manager` | this PC `properties` (2) scrool on bottom and click `Advan
 
 ![img26](assetuts2021/26changenameserver.png)
 
+
+
+## Promote
+---
+
 ### checking the server manager again 
 
+#### 1. click `AD DS` and 2. the warning click `More` and 3. click `Promote this server to a domain...` 
 ![img27](assetuts2021/27mengaturpromote.png)
+
+#### click `Add a new forest` and give the `Domain` for name domainserver and `Next`
 ![img28](assetuts2021/28mengaturpromote.png)
+
+#### give the `password and confirm password` then `Next`
 ![img29](assetuts2021/29mengaturpromote.png)
+
+### click `Next`
 ![img30](assetuts2021/30mengaturpromote.png)
+
+### The NetBIOS domain name is `automathic` and click `Next` `Next` `Next`
 ![img31](assetuts2021/31mengaturpromote.png)
+
+### click `Install`
 ![img32](assetuts2021/32mengaturpromote.png)
+
+----
+Wait your Windows Server is restarting
+----
+
+### Your `Promote Server to a Domain Controller` is `Done!`
 ![img33](assetuts2021/33mengaturpromote.png)
+
+
+### checking your server manager for your domain to installed and success :)
 ![img34](assetuts2021/34mengaturpromote.png)
 
 
-
-## DNS
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-## NET
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-## Promote
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
 
 <p align="right">(<a href="#UTS">back to top</a>)</p>
