@@ -147,22 +147,61 @@ Steps to install and configuration
 <!-- GETTING OTHER ANSWER ON QUESTION -->
 
 ## Directory
+---
+* Instalasi Active Directory Domain Services
+* Instalasi DNS server
+* Instalasi Net Framework 3.5
+* Promote Server to a Domain Controller
+---
+_tampilan awal server manager_
+`click yes` and `close (x)` the popup 
 
 ![img12](assetuts2021/12hellowwindowstrial.PNG)
 ![img13](assetuts2021/dr1.PNG)
+
+
+_setting to promote server to a `Domain Controller`_
+### click `Add roles and features`
 ![img14](assetuts2021/14instalsoaltambahan.png)
+
+### click `Next`
 ![img15](assetuts2021/15instalsoaltambahan.png)
+
+### click `Role-based or feature` and `Next`
 ![img16](assetuts2021/16instalsoaltambahan.png)
+
+### click `Select a server from the server pool` and `Next`
 ![img17](assetuts2021/17instalsoaltambahan.png)
+
+### checklist `Active Directory Domain Services` and click `Add Features` and `Next` to Instalasi Active Directory Domain Services
 ![img18](assetuts2021/18instalsoaltambahan.png)
+
+### unchecklist `Active Directory Certificate Service` | checklist `DNS Server` and click `Add Features` and `Continue` and `Next` to Instalasi DNS Server
 ![img19](assetuts2021/19instalsoaltambahan.png)
 ![img20](assetuts2021/20instalsoaltambahan.PNG)
+
+### checklist `.NET Framework 3.5 Features` and `Next` to Instalasi Net Framework 3.5
 ![img21](assetuts2021/21instalsoaltambahan.png)
+
+### click `Next` and `Next`
 ![img22](assetuts2021/22instalsoaltambahan.png)
+
+### checklist `Restart the destination server ...` and `Yes` and `Install`
 ![img23](assetuts2021/23instalsoaltambahan.png)
+
+### wait the process on `Feature installation` and the complete click `Close`
 ![img24](assetuts2021/24instalsoaltambahan.png)
+
+### look the warning `!` you have the configuration required for Active Directory Domain Services at `WIN-9S0JADHPL64`
 ![img25](assetuts2021/25mengaturpromote.png)
+
+### change name your computer server
+_(1) `file manager` | this PC `properties` (2) scrool on bottom and click `Advanced system settings`  (3) click tab `Change Name` and click `Change` (4) `custom for name` (5) click `OK` (6) click `OK` (7) click `close` and Restart Now`_
+
 ![img26](assetuts2021/26changenameserver.png)
+
+### checking the server manager again 
+
 ![img27](assetuts2021/27mengaturpromote.png)
 ![img28](assetuts2021/28mengaturpromote.png)
 ![img29](assetuts2021/29mengaturpromote.png)
