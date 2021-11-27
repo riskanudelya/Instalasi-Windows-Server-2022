@@ -132,6 +132,8 @@ Steps to install and configuration
  #### 10.-> untuk `unlock` maka gunakan `ctrl+Alt+Delete` pada keyboard
  #### 11.-> akan muncul landing `Administrator` isi password yang sudah dibuat di point `9`
  #### 12.-> installasi windows server 2022 telah berhasil dan sudah muncul tampilan layar desktop di dalam VirtualBox VM Anda 
+ 
+ 
 
 ![img9](assetuts2021/9landingwindows.PNG)
 ![img10](assetuts2021/10prosesinstallasi.png)
@@ -139,24 +141,14 @@ Steps to install and configuration
 
 
 
-
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-<!-- GETTING STARTED -->
-
+<!-- GETTING OTHER ANSWER ON QUESTION -->
 
 ## Directory
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+
 ## DNS
 
 This is an example of how you may give instructions on setting up your project locally.
