@@ -148,6 +148,8 @@ Steps to install and configuration
 
 ## Directory
 
+![img13](assetuts2021/dr1.PNG)
+
 
 ## DNS
 
