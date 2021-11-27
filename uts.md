@@ -12,6 +12,12 @@
 
 Link Download iso windows server 2022 at [https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2022](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2022)
 
+### Cara download file iso agar tidak gagal running saat melakukan `start` pada OS server windows 2022 maka dapat dilakukan cara berikut
+***1-> pilih `download iso`, 2-> isi data yang diminta `negara asal isi dengan benar`, 3-> pilih bahasa `english` dan click `download`***
+
+![img2cara](assetuts2021/2caradownloadisoyangbenar.png)
+![img2step](assetuts2021/2stepdownloadiso.png)
+
 ## UTS
 <!--Soal UTS -->
 <details>
