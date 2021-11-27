@@ -120,7 +120,8 @@ Steps to install and configuration
 **`landing Microsoft OS Setup` menandakan Anda berhasil memasukkan file iso yang benar untuk melanjutkan proses installasi windows server**  
 
  #### 1.-> `pilih bahasa` dapat menggunakan default dengan langsung klik tombol `next`
- #### 2.-> muncul tampilan `Install now` yuk klik -> Anda dapat berhasil menginstall hingga akhir jika ruang penyimpanan lokasi vdi berada mencukupi sesuai dengan jumlah                  partisi yang kita minta diawal (contohnya : kita tadi menggunakan sebesar `64 GB`)
+ #### 2.-> muncul tampilan `Install now` yuk klik -> Anda dapat berhasil menginstall hingga akhir 
+ ####      jika ruang penyimpanan lokasi vdi berada mencukupi sesuai dengan jumlah partisi yang kita minta diawal (contohnya : kita tadi menggunakan sebesar `64 GB`)
  #### 3.-> pilih microsoft server yang kita inginkan untuk diinstall terdapat 4 pilihan dan saya memilih pilihan `opsi 2`***
  #### 4.-> `centang` persetujuan dan klik `next`
  #### 5.-> pilih `opsi 2`
