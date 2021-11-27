@@ -1,9 +1,9 @@
 
 <!-- PROJECT LOGO -->
 <body>
-<h2 align="left">Name : Riska Aprilia</h2>
-<h2 align="left">NIM : 1202190007</h2>
-<h2 align="left">Class : IT0201</h2>
+<h2 align="right">Name : Riska Aprilia</h2>
+<h2 align="right">NIM : 1202190007</h2>
+<h2 align="right">Class : IT0201</h2>
   <h3 align="center">Install Windows Server 2022 di VirtualBox 6.1 version</h3>
 
   <p align="center">
