@@ -98,16 +98,16 @@ Steps to install and configuration
 5. open `settings` 
    
    ***1.-> `storage` tambahkan file pada `storage devices` untuk memasukkan disk iso windows server yang telah di download 
-   ***2.-> pilih file iso yang telah didownload dan tersimpan dalam lokasi `file manager` kita 
-   ***3.-> `open` 
-   ***4.-> pilih file iso yang telah ditambahkan
-   ***5.-> `choose` 
-   ***6.-> file iso berhasil ditambahkan
-   ***7.-> `remove empty file` 
-   ***8.-> tampilan file dalam `storage device`
-   ***9.-> Checking motherboard Base Memory tersedia `4096` seperti pada awal set-up `memory size`
-   ***10.-> `System` setting processors menjadi 2 CPU '<optional'
-   ***11.-> `OK`***  
+   2.-> pilih file iso yang telah didownload dan tersimpan dalam lokasi `file manager` kita 
+   3.-> `open` 
+   4.-> pilih file iso yang telah ditambahkan
+   5.-> `choose` 
+   6.-> file iso berhasil ditambahkan
+   7.-> `remove empty file` 
+   8.-> tampilan file dalam `storage device`
+   9.-> Checking motherboard Base Memory tersedia `4096` seperti pada awal set-up `memory size`
+   10.-> `System` setting processors menjadi 2 CPU '<optional'
+   11.-> `OK`***  
 
   ![img7](assetuts2021/7setingosstorage.png)
   ![img8](assetuts2021/8setingossystem.png)
@@ -121,8 +121,8 @@ Steps to install and configuration
 
  #### 1.-> `pilih bahasa` dapat menggunakan default dengan langsung klik tombol `next`
  #### 2.-> muncul tampilan `Install now` yuk klik -> Anda dapat berhasil menginstall hingga akhir 
- ####      jika ruang penyimpanan lokasi vdi berada mencukupi sesuai dengan jumlah partisi yang kita minta diawal (contohnya : kita tadi menggunakan sebesar `64 GB`)
- #### 3.-> pilih microsoft server yang kita inginkan untuk diinstall terdapat 4 pilihan dan saya memilih pilihan `opsi 2`***
+   #### jika ruang penyimpanan lokasi vdi berada mencukupi sesuai dengan jumlah partisi yang kita minta diawal (contohnya : kita tadi menggunakan sebesar `64 GB`)
+ #### 3.-> pilih microsoft server yang kita inginkan untuk diinstall terdapat 4 pilihan dan saya memilih pilihan `opsi 2`
  #### 4.-> `centang` persetujuan dan klik `next`
  #### 5.-> pilih `opsi 2`
  #### 6.-> gunakan default saja tanpa mengubah apapun -> klik tombol `next`
