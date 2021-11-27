@@ -148,7 +148,30 @@ Steps to install and configuration
 
 ## Directory
 
+![img12](assetuts2021/12hellowwindowstrial.PNG)
 ![img13](assetuts2021/dr1.PNG)
+![img14](assetuts2021/14instalsoaltambahan.png)
+![img15](assetuts2021/15instalsoaltambahan.png)
+![img16](assetuts2021/16instalsoaltambahan.png)
+![img17](assetuts2021/17instalsoaltambahan.png)
+![img18](assetuts2021/18instalsoaltambahan.png)
+![img19](assetuts2021/19instalsoaltambahan.png)
+![img20](assetuts2021/20instalsoaltambahan.PNG)
+![img21](assetuts2021/21instalsoaltambahan.png)
+![img22](assetuts2021/22instalsoaltambahan.png)
+![img23](assetuts2021/23instalsoaltambahan.png)
+![img24](assetuts2021/24instalsoaltambahan.png)
+![img25](assetuts2021/25mengaturpromote.png)
+![img26](assetuts2021/26changenameserver.png)
+![img27](assetuts2021/27mengaturpromote.png)
+![img28](assetuts2021/28mengaturpromote.png)
+![img29](assetuts2021/29mengaturpromote.png)
+![img30](assetuts2021/30mengaturpromote.png)
+![img31](assetuts2021/31mengaturpromote.png)
+![img32](assetuts2021/32mengaturpromote.png)
+![img33](assetuts2021/33mengaturpromote.png)
+![img34](assetuts2021/34mengaturpromote.png)
+
 
 
 ## DNS
